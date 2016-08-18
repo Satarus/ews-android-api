@@ -27,6 +27,7 @@ task copySources(type: Copy) {
             'org.apache.http':'android.org.apache.http',
             'NamingEnumeration<?>':'NamingEnumeration',
             'javax.xml.stream':'android.javax.xml.stream',
+            'javax.naming':'android.javax.naming',
             'javax.xml.namespace':'android.javax.xml.namespace',
             'javax.xml.bind':'android.javax.xml.bind',
             'import javax.xml.ws.http.HTTPException;':'',
